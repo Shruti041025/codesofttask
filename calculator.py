@@ -19,7 +19,7 @@ elif operation == "3":
      print("the multiplication are :"+ (str(int(num1)*int(num2))))
 elif operation == "4":
     num1=input("enter the number 1\n")
-    num2=input("enter the number 2\n"
+    num2=input("enter the number 2\n")
     print("the division are :"+ (str(int(num1)/int(num2))))
 else:
      print("invalid entry2")
